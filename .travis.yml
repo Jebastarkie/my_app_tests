@@ -1,4 +1,4 @@
 language: ruby
 
 script:
-	-bundle exec cucumber
+	- bundle exec cucumber
